@@ -8,6 +8,10 @@ and run it first.
 In order to run this, please:
 * run `mvn package`
 * open index.html
+
+You should see something similar to the following:
+![Sample Client Output](clienttable.png)
+
  
 NOTE: This sample uses top-level functions for simplicity. For a real implementation, it would be advisable to figure 
 out where functionality could be better encapsulated in classes.
